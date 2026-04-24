@@ -7,9 +7,9 @@ Sistem ini dirancang untuk mengelola pendaftaran pelatihan online di ITK menggun
 **E-Course ITK - Pendaftaran Pelatihan**
 
 ## Mahasiswa
-* **Nama** : [ISI NAMA KAMU]
-* **NIM** : [ISI NIM KAMU]
-* **Kelas** : [ISI KELAS KAMU]
+* **Nama** : [MUHAMMAD YUSUF HABIBI]
+* **NIM** : [04221039]
+* **Kelas** : [A]
 
 ## Entitas Sistem
 * **Peserta**: Pengguna yang melakukan pendaftaran kelas pelatihan
