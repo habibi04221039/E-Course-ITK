@@ -19,7 +19,8 @@ Sistem ini dirancang untuk mengelola pendaftaran pelatihan online di ITK menggun
 * Pendaftaran ditolak jika **KelasKursus** telah mencapai **Batas Maksimal Peserta**
 * Peserta yang berhasil mendaftar akan ditambahkan ke **Daftar Siswa Aktif**
 * Instruktur dapat mengatur ulang batas maksimal peserta suatu kelas.
-  ## Status Pengerjaan
+
+   ## Status Pengerjaan
 - [x] Tahap 1: Analisis SDLC & GitHub Repository
 - [x] Tahap 2: Use Case Diagram & Class Diagram
 - [x] Tahap 3: Implementasi Kotlin
